@@ -1,0 +1,223 @@
+from,to
+Abraham,Abraham
+Alan,Alan
+Albert,Albert
+Alice,Alice
+Alvin,Alvin
+Andrew,Andrew
+Ann,Ann
+Aron,Aron
+CHAN Chi Chuen,CHAN Chi Chuen
+CHAN Hak Kan,CHAN Hak Kan
+CHAN Han Pan,CHAN Han Pan
+CHAN Ka Lok,CHAN Ka Lok
+CHAN Kam Lam,CHAN Kam Lam
+CHAN Kin Por,CHAN Kin Por
+CHAN Wai Yip,CHAN Wai Yip
+CHAN Yuen Han,CHAN Yuen Han
+CHEUNG Chiu Hung,CHEUNG Chiu Hung
+CHEUNG Kwok Che,CHEUNG Kwok Che
+CHEUNG Wah Fung,CHEUNG Wah Fung
+CHEUNG Yu Yan,CHEUNG Yu Yan
+CHIANG Lai Wan,CHIANG Lai Wan
+CHUNG Kwok Pan,CHUNG Kwok Pan
+CHUNG Shu Kun,CHUNG Shu Kun
+Charles,Charles
+Christopher,Christopher
+Claudia,Claudia
+Cyd,Cyd
+Dennis,Dennis
+Elizabeth,Elizabeth
+Emily,Emily
+FAN Kwok Wai,FAN Kwok Wai
+FANG Kang,FANG Kang
+FUNG Kin Kee,FUNG Kin Kee
+Fernando,Fernando
+Frankie,Frankie
+Frederick,Frederick
+Gary,Gary
+HO Chun Yan,HO Chun Yan
+HO Chun Yin,HO Chun Yin
+HO Sau Lan,HO Sau Lan
+Helena,Helena
+IP Kin Yuen,IP Kin Yuen
+IP Kwok Him,IP Kwok Him
+IP LAU Suk Yee,IP LAU Suk Yee
+James,James
+Jasper,Jasper
+Jeffrey,Jeffrey
+Joseph,Joseph
+KOWK Dennis,KOWK Dennis
+KWOK Ka Ki,KWOK Ka Ki
+KWOK Wai Keung,KWOK Wai Keung
+Kenneth,Kenneth
+LAM Kin Fung,LAM Kin Fung
+LAM Tai Fai,LAM Tai Fai
+LAU Wai Hing,LAU Wai Hing
+LAU Wong Fat,LAU Wong Fat
+LEE Cheuk Yan,LEE Cheuk Yan
+LEE Kok Long,LEE Kok Long
+LEE Wai King,LEE Wai King
+LEONG Kah Kit,LEONG Kah Kit
+LEUNG Che Cheung,LEUNG Che Cheung
+LEUNG Ka Lau,LEUNG Ka Lau
+LEUNG Kenneth,LEUNG Kenneth
+LEUNG Kwan Yuen,LEUNG Kwan Yuen
+LEUNG Kwok Hung,LEUNG Kwok Hung
+LEUNG Mei Fun,LEUNG Mei Fun
+LEUNG Yiu Chung,LEUNG Yiu Chung
+LIAO Cheung Kong,LIAO Cheung Kong
+LO Wai Kwok,LO Wai Kwok
+MA Fung Kwok,MA Fung Kwok
+MAK Mei Kuen,MAK Mei Kuen
+MO Claudia,MO Claudia
+MOK Peter,MOK Peter
+Martin,Martin
+Michael,Michael
+NG Leung Sing,NG Leung Sing
+Nick Name,Nick Name
+POON Siu Ping,POON Siu Ping
+Paul,Paul
+Priscilla,Priscilla
+QUAT Elizabeth,QUAT Elizabeth
+Raymond,Raymond
+Regina,Regina
+Ronny,Ronny
+SHEK Lai Him,SHEK Lai Him
+SIN Chung Kai,SIN Chung Kai
+Starry,Starry
+Steven,Steven
+TAM Yiu Chung,TAM Yiu Chung
+TANG Ka Piu,TANG Ka Piu
+TIEN Pei Chun,TIEN Pei Chun
+TIEN Puk Sun,TIEN Puk Sun
+TO Kun Sun,TO Kun Sun
+TONG Ka Wah,TONG Ka Wah
+TSANG Yok Sing,TSANG Yok Sing
+TSE Wai Chuen,TSE Wai Chuen
+TSE Wai Chun,TSE Wai Chun
+Tommy,Tommy
+Tony,Tony
+Vincent,Vincent
+WONG Kwok Hing,WONG Kwok Hing
+WONG Kwok Kin,WONG Kwok Kin
+WONG Pik Wan,WONG Pik Wan
+WONG Ting Kwong,WONG Ting Kwong
+WONG Yuk Man,WONG Yuk Man
+WU Chi Wai,WU Chi Wai
+YEUNG Ngok-kiu,YEUNG Ngok-kiu
+YIU Si Wing,YIU Si Wing
+Yick Chi Ming,Yick Chi Ming
+其他,Other
+前綫,The Frontier
+功能,Functional constituency
+商界,Commercial 
+地區,Geographical constituency
+姓名,Name-Chi
+工黨,Labour Party
+底層,Lower class
+建制,Pro-establishment
+方剛,Vincent FANG
+民協,Hong Kong Association for Democracy and People's Livelihood
+泛民,Pan-democracy
+派別,Political Camp
+街工,Neighbourhood and Workers Services Centre
+階層,Social-Class
+類型,Constituency-Type
+何俊仁,Albert HO
+何俊賢,Steven HO
+何秀蘭,Cyd HO
+公民黨,Civic Party
+劉慧卿,Emily LAU
+劉皇發,Dr LAU Wong-fat
+吳亮星,NG Leung-sing
+單仲偕,SIN Chung-kai
+姚思榮,YIU Si-wing
+工聯會,The Hong Kong Federation of Trade Unions
+廖長江,Martin LIAO
+張國柱,CHEUNG Kwok-che
+張宇人,Tommy CHEUNG
+張華峰,Christopher CHEUNG
+張超雄,Dr Fernando CHEUNG
+新民黨,New People's Party
+新論壇,New Century Forum
+易志明,Frankie YICK
+曾鈺成,TSANG Yok-sing
+李卓人,LEE Cheuk-yan
+李國麟,Prof Joseph LEE
+李慧琼,Starry LEE
+林健鋒,Jeffrey LAM
+林大輝,Dr LAM Tai-fai
+梁君彥,Andrew LEUNG
+梁國雄,LEUNG Kwok-hung
+梁家傑,Alan LEONG
+梁家騮,Dr LEUNG Ka-lau
+梁志祥,LEUNG Che-cheung
+梁繼昌,Kenneth LEUNG
+梁美芬,Dr Priscilla LEUNG
+梁耀忠,LEUNG Yiu-chung
+楊岳橋,Alvin YEUNG
+毛孟靜,Claudia MO
+民主黨,Democratic Party
+民建聯,Democratic Alliance for the Betterment and Progress of Hong Kong
+涂謹申,James TO
+湯家驊,Ronny TONG
+潘兆平,POON Siu-ping
+王國興,WONG Kwok-hing
+田北俊,James TIEN
+田北辰,Michael TIEN
+盧偉國,Ir Dr LO Wai-kwok
+石禮謙,Abraham SHEK
+經民聯,Business and Professionals Alliance for Hong Kong
+胡志偉,WU Chi-wai
+自由黨,Liberal Party
+英文名,Name-Eng
+范國威,Gary FAN
+莫乃光,Charles Peter MOK
+葉國謙,IP Kwok-him
+葉建源,IP Kin-yuen
+葛珮帆,Dr Elizabeth QUAT
+蔣麗芸,Dr CHIANG Lai-wan
+謝偉俊,Paul TSE
+謝偉銓,Tony TSE
+譚耀宗,TAM Yiu-chung
+郭偉强,KWOK Wai-keung
+郭家麒,Dr KWOK Ka-ki
+郭榮鏗,Dennis KWOK
+鄧家彪,TANG Ka-piu
+鍾國斌,CHUNG Kwok-pan
+鍾樹根,Christopher CHUNG
+陳偉業,Albert CHAN
+陳健波,CHAN Kin-por
+陳克勤,CHAN Hak-kan
+陳婉嫻,CHAN Yuen-han
+陳家洛,Dr Kenneth CHAN
+陳志全,CHAN Chi-chuen
+陳恒鑌,CHAN Han-pan
+陳鑑林,CHAN Kam-lam
+馬逢國,MA Fung-kwok
+馮檢基,Frederick FUNG
+麥美娟,Alice MAK
+黃國健,WONG Kwok-kin
+黃定光,WONG Ting-kwong
+黃毓民,WONG Yuk-man
+黃碧雲,Dr Helena WONG
+人民力量,People Power
+公民起動,Civic Act-Up
+四五行動,April Fifth Action
+經濟動力,Economic Synergy
+葉劉淑儀,Mrs Regina IP
+所屬團體-finalized,Politlcal-Affiliation-Finalized
+所屬團體1,Politlcal-Affiliation-1
+所屬團體2,Politlcal-Affiliation-2
+新民主同盟,Neo Democrats
+無明確階層,Not clear
+社會總工會,Hong Kong Social Workers’ General Union
+西九新動力,Kowloon West New Dynamic
+公共專業聯盟,The Professional Commons
+新界社團聯會,New Territories Association of Societies
+社會民主連線,League of Social Democrats
+區議會（第二）,District Council (Second)
+香港職工會聯盟,The Hong Kong Confederation of Trade Unions
+港九勞工社團聯會,The Federation of Hong Kong and Kowloon Labour Unions
+政黨,Party
