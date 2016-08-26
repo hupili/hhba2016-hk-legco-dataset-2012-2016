@@ -1,7 +1,6 @@
 -e git+https://github.com/scrapy/scrapely.git@39e7d2c7f9d7a36ecf879623093d53130c56e15d#egg=Package
 Jinja2
 MarkupSafe
-Pillow
 PyReadability
 Pygments
 SQLAlchemy
@@ -15,7 +14,6 @@ gnureadline
 html2text
 httpie
 ipykernel
-ipython
 ipython[notebook]
 jieba
 jsonschema
@@ -52,3 +50,4 @@ terminado
 tornado
 traitlets
 w3lib
+cairocffi
